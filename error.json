@@ -1,0 +1,10 @@
+[
+    {
+        "error": "something went wrong! u might try later",
+        "covidApi" : {
+            "noCountry": "Country doesnt exist!",
+            "noData": "Country has no data!",
+            "noEntry": "No Entry has been made for Today. Try Again Later!"
+        }
+    }
+]
